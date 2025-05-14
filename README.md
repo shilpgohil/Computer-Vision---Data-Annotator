@@ -19,7 +19,7 @@ Core technologies powering this solution:
 * **Auto Tagging**: Metadata enrichment using deep learning
 * **Data Sovereignty**: Compliant with Indian IT Act & GDPR standards
 * **Priority Support**: Dedicated engineering team access
-* **Reach out @shilpgohil@gmail.com
+* **Reach out**: @shilpgohil@gmail.com
 
 ## Security & Compliance 🔒
 * RBI compliant data handling procedures
